@@ -21,10 +21,10 @@ The dataset contains the following variables:
 
 ## 📚 Tools & Libraries
 
-- **Python** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-- **Pandas, NumPy** – Data cleaning & preprocessing   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-- **Matplotlib, Seaborn** – Data visualization  ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-9ECAE1?style=for-the-badge&logo=seaborn&logoColor=black)  
-- **scikit-learn** – Model training & evaluation  ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) 
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  – Data cleaning & preprocessing
+- ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-9ECAE1?style=for-the-badge&logo=seaborn&logoColor=black)  – Data visualization
+- ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) – Model training & evaluation  
 
 ---
 
@@ -76,7 +76,7 @@ The dataset contains the following variables:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/diabetes-prediction.git
+   git clone https://github.com/TasnimNishat-Dev/diabetes-prediction.git
    cd diabetes-prediction
    
 ---
@@ -90,6 +90,7 @@ The dataset contains the following variables:
 
 ---
 ✨ Author
+
 Developed by [Sadia Tasnim Nishat]
-💼 Aspiring Data Analyst | Business Analyst
-🛠️ Skills: SQL | Python | Excel | Power BI | Retool
+- 💼 Aspiring Data Analyst | Business Analyst
+- 🛠️ Skills: SQL | Python | Excel | Power BI | Retool
