@@ -78,7 +78,13 @@ The dataset contains the following variables:
    ```bash
    git clone https://github.com/TasnimNishat-Dev/diabetes-prediction.git
    cd diabetes-prediction
-   
+ 2. Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+ 4. Run the Jupyter Notebook:
+    ```bash
+    jupyter notebook diabetes_prediction.ipynb
+    
 ---
 
 📌 Future Work
